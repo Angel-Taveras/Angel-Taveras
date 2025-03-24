@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Angel Taveras 
 
-<!--
-**Angel-Taveras/Angel-Taveras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Full-Stack Developer (Java/React)
+☕ **Java** | 🌱 **Spring** | ⚛️ **React**  
+🖥️ **WordPress** | 🎨 **Bootstrap** | 🔄 **Git**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+**Backend**:  
+☕ Java • 🌱 Spring Boot • 🗃️ MySQL  
+
+**Frontend**:  
+⚛️ React • 🎨 Bootstrap • 📱 Responsive Design  
+
+**CMS**:  
+🖥️ WordPress • 🛒 WooCommerce  
+
+---
+
+### 🌱 Currently Learning  
+- 🧩 Spring Security  
+- 🔄 React Context API  
+- ☁️ AWS Fundamentals  
+
+📫 **Let's Connect**:  
+📧 angeltaveras24@gmail.com • 🔗 <a ref="https://www.linkedin.com/in/angel-taveras-722607114/">Linkedin</a>  
+
+⚡ **Fun Fact**: I can debug CSS while half-asleep! 😴→💡
