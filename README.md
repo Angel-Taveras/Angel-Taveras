@@ -24,6 +24,7 @@
 - ☁️ AWS Fundamentals  
 
 📫 **Let's Connect**:  
-📧 angeltaveras24@gmail.com • 🔗 <a ref="https://www.linkedin.com/in/angel-taveras-722607114/">Linkedin</a>  
+📧 angeltaveras24@gmail.com • 🔗<a href="https://www.linkedin.com/in/angel-taveras-722607114/" target="_blank">LinkedIn</a>>
+  
 
 ⚡ **Fun Fact**: I can debug CSS while half-asleep! 😴→💡
