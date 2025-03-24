@@ -1,10 +1,15 @@
-# 👋 Hi, I'm Angel Taveras 
+# 👋 Hi, I'm Angel Taveras 👦🏽
+
+
+
 
 ### 💻 Full-Stack Developer (Java/React)
 ☕ **Java** | 🌱 **Spring** | ⚛️ **React**  
 🖥️ **WordPress** | 🎨 **Bootstrap** | 🔄 **Git**
 
 ---
+
+
 
 ### 🛠️ Tech Stack
 **Backend**:  
@@ -19,12 +24,12 @@
 ---
 
 ### 🌱 Currently Learning  
-- 🧩 Spring Security  
-- 🔄 React Context API  
-- ☁️ AWS Fundamentals  
+-☕ Java 
+-🌱 Spring Boot
+-⚛️ React
 
-📫 **Let's Connect**:  
-📧 angeltaveras24@gmail.com • 🔗<a href="https://www.linkedin.com/in/angel-taveras-722607114/" target="_blank">LinkedIn</a>>
-  
+### You can find me 🌍 :  
+📧 angeltaveras24@gmail.com • 🔗<a href="https://www.linkedin.com/in/angel-taveras-722607114/" target="_blank">LinkedIn</a>
 
-⚡ **Fun Fact**: I can debug CSS while half-asleep! 😴→💡
+  ![Angel-Taveras's Stats](https://github-readme-stats.vercel.app/api?username=Angel-Taveras&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
