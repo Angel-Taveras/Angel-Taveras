@@ -26,8 +26,8 @@ Angel Taveras | Full-Stack Developer
 ```
 
 
+
 ## You can find me 🌍 :  
 📧 angeltaveras24@gmail.com • 🔗<a href="https://www.linkedin.com/in/angel-taveras-722607114/" target="_blank">LinkedIn</a>
 
-  ![Angel-Taveras's Stats](https://github-readme-stats.vercel.app/api?username=Angel-Taveras&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
+  ![Angel-Taveras's Stats](https://github-readme-stats.vercel.app/api?username=Angel-Taveras&theme=github_dark_dimmed&show_icons=true&hide_border=true&count_private=true)
