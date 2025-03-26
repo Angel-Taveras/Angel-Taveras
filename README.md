@@ -6,7 +6,7 @@ public class Developer {
         String[] skills = {
             "☕ Java • 🌱 Spring Boot",
             "⚛️ React • 🖥️ WordPress",
-            "🔧 Git/GitHub • 🗃️ MySQL",  // Added here
+            "🔧 Git/GitHub • 🗃️ MySQL",
             "🎨 HTML/CSS • 🅱️ Bootstrap"
         };
         
